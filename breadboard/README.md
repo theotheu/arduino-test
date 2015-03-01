@@ -18,3 +18,5 @@ void loop() {
   Serial.println(BUTTON1_PIN);
 }
 ```
+
+See http://arduino.cc/en/Guide/Libraries
