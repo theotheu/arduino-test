@@ -3,7 +3,7 @@ Example usge for your own init files.
 1. Create a directory `myProject`
 2. Save the `bb_init.h` file in the (same) directory `myProject`
 3. Create an Arduino file `mySketch.ino` in the directory `myProject`
-4. Run the skecth and view the output
+4. Run the sketch and view the output
 
 ```
 #include "bb_init.h"
