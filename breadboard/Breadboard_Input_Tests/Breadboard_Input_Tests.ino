@@ -11,13 +11,13 @@
 */
 
 // Buttons -- Input
-int buttonLeft = 2;
-int buttonMiddle = 7;
-int buttonRight = 8;
+#define buttonLeft 2
+#define buttonMiddle 7
+#define buttonRight 8
 
 // Sliders -- Input
-int sliderLeft = 1;
-int sliderRight = 0;
+#define sliderLeft 1
+#define sliderRight 0
 
 // initial status values
 int buttonLeftStatus = -1;
