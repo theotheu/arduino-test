@@ -13,17 +13,17 @@ int tempo = 300;
 
 
 // Leds -- Output
-int ledLeftRed = 3;
-int ledLeftGreen = 5;
-int ledLeftBlue = 6;
+#define ledLeftRed 3
+#define ledLeftGreen 5
+#define ledLeftBlue 6
 
 // Leds -- Output
-int ledRightRed = 9;
-int ledRightGreen = 10;
-int ledRightBlue = 11;
+#define ledRightRed 9
+#define ledRightGreen 10
+#define ledRightBlue 11
 
 // Buzzer -- Output
-int buzzerPin = 4;
+#define buzzerPin 4
 
 void setup() {
   // -- Output
